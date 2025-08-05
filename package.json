@@ -1,0 +1,40 @@
+{
+  "name": "promptcrafter-ai",
+  "private": false,
+  "version": "1.0.0",
+  "description": "An advanced prompt engineering assistant powered by Gemini API",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/promptcrafter-ai.git"
+  },
+  "homepage": "https://github.com/your-username/promptcrafter-ai#readme",
+  "bugs": {
+    "url": "https://github.com/your-username/promptcrafter-ai/issues"
+  },
+  "keywords": [
+    "ai",
+    "prompt-engineering",
+    "gemini",
+    "react",
+    "typescript",
+    "vite"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.12.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "PromptCrafter AI",
+  "description": "An advanced prompt engineering assistant. It takes raw ideas and crafts clear, powerful, and highly contextual prompts for various AI tools and purposes, leveraging the Gemini API for generation.",
+  "requestFramePermissions": []
+}
